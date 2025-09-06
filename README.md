@@ -2,11 +2,11 @@
 
 AayushBaral.txt
 ```
-Name: 
-Section: 
-Roll No:
-Days present:
-Netlify site url: 
+Name: Sagun Ganesh
+Section: B
+Roll No: 33
+Days present: 6
+Netlify site url: https://github.com/Sagun069/HTML
 
 Learnings
 -----------------
